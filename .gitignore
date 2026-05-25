@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Downloaded datasets (auto-fetched by torchvision on run)
+fgsm-attack/data/
+fgsm-attack/mnist/
+
+# Model checkpoints (regenerable by running mnist-resnet50.ipynb; ~94 MB)
+*.pt
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
