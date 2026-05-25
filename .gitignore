@@ -15,3 +15,6 @@ fgsm-attack/mnist/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+
+# Course instructions / scaffold
+instructions/
