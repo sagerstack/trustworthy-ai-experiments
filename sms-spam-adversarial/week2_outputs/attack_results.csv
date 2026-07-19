@@ -1,0 +1,6 @@
+condition,accuracy,spam_precision,spam_recall,spam_slip_through,false_positive_rate,tn,fp,fn,tp,overall_message_change_rate,spam_message_change_rate,ham_message_change_rate
+Clean baseline,0.983,0.9452,0.9262,0.0738,0.0083,958,8,11,138,,,
+Keyword obfuscation,0.9758,0.9621,0.8523,0.1477,0.0052,961,5,22,127,0.1883,0.8591,0.0849
+Homoglyph,0.9785,0.963,0.8725,0.1275,0.0052,961,5,19,130,0.1731,0.7584,0.0828
+Spacing,0.9812,0.9444,0.9128,0.0872,0.0083,958,8,13,136,0.0888,0.5369,0.0197
+Mixed,0.9758,0.9621,0.8523,0.1477,0.0052,961,5,22,127,0.1883,0.8591,0.0849

@@ -1,0 +1,6 @@
+{
+  "main_finding": "The clean spam classifier achieved high baseline accuracy, but adversarial perturbations reduced spam recall and increased spam slip-through, showing that clean accuracy alone does not guarantee robustness.",
+  "attack_finding": "Keyword obfuscation, homoglyph substitutions, and mixed attacks were more damaging than spacing alone because they directly disrupted spam-indicative tokens while preserving human-readable meaning.",
+  "defense_finding": "Normalization and adversarial training recovered some robustness, but did not eliminate the adversarial risk. This demonstrates the trade-off between defensive preprocessing, attack coverage, and generalization to unseen perturbations.",
+  "trustworthy_ai_implication": "For deployment, spam filters and other NLP classifiers require robustness evaluation, input normalization, monitoring for drift or obfuscation patterns, and periodic retraining. A system can appear accurate under clean testing while remaining fragile under adversarial usage."
+}

@@ -1,0 +1,16 @@
+Network: /Users/sagarpratapsingh/Documents/sutd/trustworthy-ai/trustworthy-ai-experiments/formal-verification/formal-verification/artifacts/singapore_house_price_monotonicity_pair.onnx
+Property: /Users/sagarpratapsingh/Documents/sutd/trustworthy-ai/trustworthy-ai-experiments/formal-verification/formal-verification/artifacts/samples/house_4.txt
+
+Engine::processInputQuery: Input query (before preprocessing): 141 equations, 275 variables
+Engine::processInputQuery: Input query (after preprocessing): 129 equations, 135 variables
+
+Input bounds:
+	x0: [ 98.0000,  98.0000] [FIXED]
+	x1: [1978.0000, 1978.0000] [FIXED]
+	x2: [719.0000, 719.0000] [FIXED]
+	x3: [ 11.0000,  11.0000] [FIXED]
+	x4: [24218.0000, 24218.0000] [FIXED]
+	x5: [  0.0000,   0.1000] 
+
+Branching heuristics set to LargestInterval
+unsat

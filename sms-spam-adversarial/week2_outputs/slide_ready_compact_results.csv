@@ -1,0 +1,7 @@
+condition,accuracy,spam_recall,spam_slip_through
+Clean baseline,0.983,0.9262,0.0738
+Keyword obfuscation,0.9758,0.8523,0.1477
+Homoglyph,0.9785,0.8725,0.1275
+Spacing,0.9812,0.9128,0.0872
+Mixed,0.9758,0.8523,0.1477
+"Adv-trained, mixed attack",0.9848,0.9195,0.0805

@@ -1,0 +1,58 @@
+[
+  {
+    "idx": 1,
+    "town": "ANG MO KIO",
+    "flat_type": "3 ROOM",
+    "floor_area_sqm": 68.0,
+    "lease_commence_date": 1981,
+    "remaining_lease_months": 750,
+    "storey_mid": 8.0,
+    "month_index": 24215,
+    "result": "UNSAT",
+    "status": "done",
+    "log": "formal-verification/formal-verification/artifacts/samples/house_1.log",
+    "prop": "formal-verification/formal-verification/artifacts/samples/house_1.txt"
+  },
+  {
+    "idx": 2,
+    "town": "PUNGGOL",
+    "flat_type": "5 ROOM",
+    "floor_area_sqm": 111.0,
+    "lease_commence_date": 2005,
+    "remaining_lease_months": 1041,
+    "storey_mid": 8.0,
+    "month_index": 24208,
+    "result": "UNSAT",
+    "status": "done",
+    "log": "formal-verification/formal-verification/artifacts/samples/house_2.log",
+    "prop": "formal-verification/formal-verification/artifacts/samples/house_2.txt"
+  },
+  {
+    "idx": 3,
+    "town": "TAMPINES",
+    "flat_type": "3 ROOM",
+    "floor_area_sqm": 74.0,
+    "lease_commence_date": 1987,
+    "remaining_lease_months": 828,
+    "storey_mid": 8.0,
+    "month_index": 24215,
+    "result": "UNSAT",
+    "status": "done",
+    "log": "formal-verification/formal-verification/artifacts/samples/house_3.log",
+    "prop": "formal-verification/formal-verification/artifacts/samples/house_3.txt"
+  },
+  {
+    "idx": 4,
+    "town": "WOODLANDS",
+    "flat_type": "4 ROOM",
+    "floor_area_sqm": 98.0,
+    "lease_commence_date": 1978,
+    "remaining_lease_months": 719,
+    "storey_mid": 11.0,
+    "month_index": 24218,
+    "result": "UNSAT",
+    "status": "done",
+    "log": "formal-verification/formal-verification/artifacts/samples/house_4.log",
+    "prop": "formal-verification/formal-verification/artifacts/samples/house_4.txt"
+  }
+]

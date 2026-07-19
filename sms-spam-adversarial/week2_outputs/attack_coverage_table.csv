@@ -1,0 +1,5 @@
+attack,overall_message_change_rate,spam_message_change_rate,ham_message_change_rate
+Keyword obfuscation,0.1883,0.8591,0.0849
+Homoglyph,0.1731,0.7584,0.0828
+Spacing,0.0888,0.5369,0.0197
+Mixed,0.1883,0.8591,0.0849

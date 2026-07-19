@@ -1,0 +1,6 @@
+condition,accuracy,spam_precision,spam_recall,spam_slip_through,false_positive_rate,tn,fp,fn,tp
+Adv-trained model - clean,0.9848,0.9648,0.9195,0.0805,0.0052,961,5,12,137
+Adv-trained model - Keyword obfuscation,0.9848,0.9648,0.9195,0.0805,0.0052,961,5,12,137
+Adv-trained model - Homoglyph,0.9848,0.9648,0.9195,0.0805,0.0052,961,5,12,137
+Adv-trained model - Spacing,0.9839,0.9645,0.9128,0.0872,0.0052,961,5,13,136
+Adv-trained model - Mixed,0.9848,0.9648,0.9195,0.0805,0.0052,961,5,12,137

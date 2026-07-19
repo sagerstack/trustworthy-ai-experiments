@@ -1,0 +1,6 @@
+condition,accuracy,spam_precision,spam_recall,spam_slip_through,false_positive_rate,tn,fp,fn,tp
+Defense model - clean,0.9821,0.9448,0.9195,0.0805,0.0083,958,8,12,137
+Defense model - Keyword obfuscation,0.9803,0.9568,0.8926,0.1074,0.0062,960,6,16,133
+Defense model - Homoglyph,0.9803,0.9568,0.8926,0.1074,0.0062,960,6,16,133
+Defense model - Spacing,0.9803,0.9441,0.906,0.094,0.0083,958,8,14,135
+Defense model - Mixed,0.9803,0.9568,0.8926,0.1074,0.0062,960,6,16,133

@@ -1,0 +1,20 @@
+{
+  "feature_cols": [
+    "floor_area_sqm",
+    "lease_commence_date",
+    "remaining_lease_months",
+    "storey_mid",
+    "month_index"
+  ],
+  "reference_input": {
+    "floor_area_sqm": 82.0,
+    "lease_commence_date": 1979.0,
+    "remaining_lease_months": 736.0,
+    "storey_mid": 5.0,
+    "month_index": 24207.0
+  },
+  "monotone_feature": "floor_area_sqm",
+  "delta_sqm": 5.0,
+  "property_type": "C",
+  "plain_english": "If two houses are identical except the second has larger floor area, predicted price should not decrease."
+}

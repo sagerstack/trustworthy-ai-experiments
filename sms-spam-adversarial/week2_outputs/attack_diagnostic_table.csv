@@ -1,0 +1,5 @@
+attack,before,after,changed
+Keyword obfuscation,WINNER!! Claim your free prize cash now,w1nner!! cl@im your fr33 pr1ze ca$h now,True
+Homoglyph,WINNER!! Claim your free prize cash now,WINNER!! Cl@1m your fr33 pr1z3 c@$h now,True
+Spacing,WINNER!! Claim your free prize cash now,w i n n e r!! c l a i m your f r e e p r i z e c a s h now,True
+Mixed,WINNER!! Claim your free prize cash now,w1nner!! cl@im your fr33 pr1ze ca$h now,True

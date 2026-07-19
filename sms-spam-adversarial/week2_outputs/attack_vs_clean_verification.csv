@@ -1,0 +1,5 @@
+attack,accuracy_drop_vs_clean,spam_recall_drop_vs_clean,slip_through_increase_vs_clean,passes_expected_pattern
+Keyword obfuscation,0.0072,0.0739,0.0739,True
+Homoglyph,0.0045,0.0537,0.0537,True
+Spacing,0.0018,0.0134,0.0134,True
+Mixed,0.0072,0.0739,0.0739,True
