@@ -19,3 +19,9 @@ __pycache__/
 # Course instructions / scaffold
 instructions/
 lab-submissions/
+
+# Office temp/lock files
+~$*
+
+# Marabou solver checkout (1.5 GB build tree, clone separately)
+formal-verification/Marabou/
